@@ -4,7 +4,7 @@
             <div class="px-4 sm:px-6 lg:px-8">
 
                 <x-heading
-                  title="Client"
+                  title="Sales"
                   description="A list of all sales."
                 />
                   
