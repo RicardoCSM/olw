@@ -60,3 +60,6 @@ Migrations são uma maneira de versionar as tabelas de sua base de dados. Para e
 - Execute `./vendor/bin/sail art migrate` para montar sua adicionar as tabelas ao seu banco
 
 - Execute `./vendor/bin/sail art db:seed` para popular o seu banco com dados fictícios
+
+Além disso, sirva a aplicação e as suas dependências de JavaScript / Vite
+- Execute `./vendor/bin/sail npm run dev` para iniciar o ambiente de desenvolvimento
